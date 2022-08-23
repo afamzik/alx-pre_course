@@ -1,1 +1,1 @@
-what do you want to know? anyway, lets code.
+My first README in git. what do you want to know? anyway, lets code.
